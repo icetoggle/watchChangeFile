@@ -5,7 +5,7 @@ watchChangeFile
 
 ===============
 config.js:
-'
+``
 {
 	project:"/Users/ice/Documents/workspace/",  //监控文件夹
 	poll_interval:1000,                         
@@ -14,6 +14,6 @@ config.js:
 	    "/Users/ice/Documents/workspace/server/server_ex/backup":true  //忽略的目录
 	},
 }
-'
+``
 
 
